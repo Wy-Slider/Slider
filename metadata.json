@@ -1,0 +1,6 @@
+{
+  "name": "WySlider",
+  "description": "WySlider AI Tools Suite — Think Less, Create More. Purpose-built AI tools that remove manual work and give you back your time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
